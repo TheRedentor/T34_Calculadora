@@ -1,0 +1,52 @@
+.container {
+  box-shadow: 2px 4px rgba(90, 90, 90, 0.25);
+  margin: 150px auto auto auto;
+  padding: 0px;
+  width: 400px;
+}
+
+.row {
+  display: inline-block;
+}
+
+.col {
+  font-size: 0px;
+}
+
+.numero, .operacion {
+  font-size: 20px;
+}
+
+.pantalla, .resultado {
+  display: block;
+  text-align: right;
+  width: 400px;
+  font-size: 30px;
+  color: rgb(78, 78, 78);
+}
+
+.resultado {
+  font-size: 20px;
+}
+
+input {
+  border: 0;
+}
+
+.numero {
+  border: 0;
+  background-color: gray;
+  height: 80px;
+}
+
+.operacion {
+  border: 0;
+  background-color: rgb(8, 167, 167);
+  height: 50px;
+}
+
+.numero, .operacion {
+  width: 98px;
+  color: white;
+}
+
