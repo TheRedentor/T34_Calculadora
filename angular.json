@@ -27,9 +27,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [
-              "src/assets/codigo.js"
-            ]
+            "scripts": []
           },
           "configurations": {
             "production": {
